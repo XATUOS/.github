@@ -38,7 +38,7 @@
 
 1. [**C / C++**](./environment/c_cpp.md)
 2. **[WIP] C#**
-3. **[WIP] Java / Kotlin / Scala**
+3. [**Java / Kotlin / Scala**](./environment/java_kotlin_scala.md)
 4. **[WIP] Python**
 5. **[WIP] HTML / CSS / JavaScript / TypeScript**
 6. **[WIP] Golang**
