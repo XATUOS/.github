@@ -5,6 +5,7 @@
 ## 新人必看
 
 * [新人必做指北](https://github.com/XATUOS/.github)
+* [Gugle的代码风格指南](https://github.com/Gu-ZT/CodeStyle)
 
 ## 加入我们
 
